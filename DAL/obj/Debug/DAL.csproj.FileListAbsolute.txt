@@ -1,0 +1,10 @@
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\bin\Debug\DAL.dll.config
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\bin\Debug\DAL.dll
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\bin\Debug\DAL.pdb
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\bin\Debug\EntityFramework.dll
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\bin\Debug\EntityFramework.xml
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\obj\Debug\DAL.dll
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\obj\Debug\DAL.pdb
