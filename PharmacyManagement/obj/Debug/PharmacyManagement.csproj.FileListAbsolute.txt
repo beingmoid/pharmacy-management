@@ -17,3 +17,11 @@ c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.exe
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.pdb
 >>>>>>> cd51030ebf413c65fd36fdd93e4243390175896e
+D:\New folder\pharmacy-management\PharmacyManagement\bin\Debug\PharmacyManagement.exe.config
+D:\New folder\pharmacy-management\PharmacyManagement\obj\Debug\PharmacyManagement.exe
+D:\New folder\pharmacy-management\PharmacyManagement\obj\Debug\PharmacyManagement.pdb
+D:\New folder\pharmacy-management\PharmacyManagement\bin\Debug\PharmacyManagement.exe
+D:\New folder\pharmacy-management\PharmacyManagement\bin\Debug\PharmacyManagement.pdb
+D:\New folder\pharmacy-management\PharmacyManagement\obj\Debug\PharmacyManagement.csprojResolveAssemblyReference.cache
+D:\New folder\pharmacy-management\PharmacyManagement\obj\Debug\PharmacyManagement.Properties.Resources.resources
+D:\New folder\pharmacy-management\PharmacyManagement\obj\Debug\PharmacyManagement.csproj.GenerateResource.Cache

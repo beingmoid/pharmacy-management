@@ -8,3 +8,32 @@ c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\obj\Debug\DAL.dll
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\PharmacyManagement\DAL\obj\Debug\DAL.pdb
+D:\New folder\pharmacy-management\DAL\bin\Debug\DAL.dll.config
+D:\New folder\pharmacy-management\DAL\bin\Debug\DAL.dll
+D:\New folder\pharmacy-management\DAL\bin\Debug\DAL.pdb
+D:\New folder\pharmacy-management\DAL\bin\Debug\EntityFramework.dll
+D:\New folder\pharmacy-management\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\pharmacy-management\DAL\bin\Debug\EntityFramework.xml
+D:\New folder\pharmacy-management\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.dll
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.pdb
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._11282019924.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._11282019937.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._11282019941.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._11282019957.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191002.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191028.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191050.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191102.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191106.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191107.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191109.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191110.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191133.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191140.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._112820191141.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._11292019130.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._11292019139.resources
+D:\New folder\pharmacy-management\DAL\obj\Debug\DAL.Migrations._11292019142.resources
