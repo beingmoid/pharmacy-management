@@ -9,7 +9,7 @@ namespace DAL
     public partial class DbPharmacyContext : DbContext
     {
         public DbPharmacyContext()
-            : base("Data Source=DESKTOP-MJ87MHR;Initial Catalog=DbPharmacy;Integrated Security=True")
+            : base("Data Source=DESKTOP-M5C4BD6;Initial Catalog=dbPharmacy;Integrated Security=True")
         {
         }
         public DbSet<Users> Users { get; set; }

@@ -1,0 +1,12 @@
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\BLL.dll.config
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\BLL.dll
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\BLL.pdb
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\DAL.dll
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\EntityFramework.dll
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\DAL.pdb
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\EntityFramework.xml
+D:\School\pharmacy\pharmacy-management\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\School\pharmacy\pharmacy-management\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\School\pharmacy\pharmacy-management\BLL\obj\Debug\BLL.dll
+D:\School\pharmacy\pharmacy-management\BLL\obj\Debug\BLL.pdb
